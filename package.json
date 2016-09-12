@@ -1,0 +1,23 @@
+{
+  "name": "my-progressive-web-app",
+  "version": "1.0.0",
+  "description": "progressive web app sample",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server app --files app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybiquitous/my-progressive-web-app.git"
+  },
+  "keywords": [],
+  "author": "ybiquitous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ybiquitous/my-progressive-web-app/issues"
+  },
+  "homepage": "https://github.com/ybiquitous/my-progressive-web-app#readme",
+  "devDependencies": {
+    "browser-sync": "^2.15.0"
+  }
+}
