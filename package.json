@@ -21,7 +21,6 @@
     "express": "^4.15.2"
   },
   "devDependencies": {
-    "browser-sync": "^2.15.0",
     "eslint": "^3.17.1",
     "eslint-config-ybiquitous": "^1.2.0"
   }
